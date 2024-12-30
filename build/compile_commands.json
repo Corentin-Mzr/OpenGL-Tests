@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\controller\\app.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\controller\\app.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/controller/app.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/controller/app.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\entity\\ecs_manager.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\entity\\ecs_manager.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/entity/ecs_manager.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/entity/ecs_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/OpenGL_Project.dir/includes_C.rsp -g -o CMakeFiles\\OpenGL_Project.dir\\src\\glad.c.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\glad.c",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/glad.c",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\main.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\main.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/main.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\meshes\\base_mesh.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\meshes\\base_mesh.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/meshes/base_mesh.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/meshes/base_mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\meshes\\cube_mesh.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\meshes\\cube_mesh.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/meshes/cube_mesh.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/meshes/cube_mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\meshes\\material.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\meshes\\material.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/meshes/material.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/meshes/material.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\meshes\\square_mesh.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\meshes\\square_mesh.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/meshes/square_mesh.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/meshes/square_mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\meshes\\triangle_mesh.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\meshes\\triangle_mesh.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/meshes/triangle_mesh.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/meshes/triangle_mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\systems\\camera_system.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\systems\\camera_system.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/systems/camera_system.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/systems/camera_system.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\systems\\physics_system.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\systems\\physics_system.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/systems/physics_system.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/systems/physics_system.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\systems\\render_system.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\systems\\render_system.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/systems/render_system.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/systems/render_system.cpp.obj"
+},
+{
+  "directory": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OpenGL_Project.dir\\src\\view\\shader.cpp.obj -c C:\\Users\\deads\\Bureau\\Jeux\\github\\cpp\\OPENGL-GLFW_Project\\src\\view\\shader.cpp",
+  "file": "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/src/view/shader.cpp",
+  "output": "CMakeFiles/OpenGL_Project.dir/src/view/shader.cpp.obj"
+}
+]

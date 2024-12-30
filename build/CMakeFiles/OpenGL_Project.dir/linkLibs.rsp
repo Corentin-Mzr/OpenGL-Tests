@@ -1,0 +1,1 @@
+ "C:/Users/deads/Bureau/Jeux/github/cpp/OPENGL-GLFW_Project/deps/libs/libglfw3dll.a" -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

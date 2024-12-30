@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20241230-1224-Experimental"
+	Name="MSI"
+	Generator="ctest-3.31.3"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.1.0"
+	OSName="Windows"
+	Hostname="MSI"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="18189"
+	TotalPhysicalMemory="16205"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2592"
+	>
+	<Testing>
+		<StartDateTime>Dec 30 13:24 Paris, Madrid</StartDateTime>
+		<StartTestTime>1735561495</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 30 13:24 Paris, Madrid</EndDateTime>
+		<EndTestTime>1735561495</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
